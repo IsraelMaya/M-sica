@@ -8,7 +8,7 @@ Realizamos un análisis preliminar de las tarifas basado en una selección de cl
 
 Nuestro trabajo fue analizar, el comportamiento de los clientes y determinar qué tarifa de prepago genera más ingresos.
 
-##Tabla de conteidos del proyecto
+## Tabla de conteidos del proyecto
 
 * [1 Incialización.](#Capítulo_1)
     * [1.1 Cargar los datos](#Sección_1_1)
@@ -39,7 +39,7 @@ Nuestro trabajo fue analizar, el comportamiento de los clientes y determinar qu�
 * [4 Conclusión general](#Capítulo_4)
 
 
-##Paqueteria Utilizada
+## Paqueteria Utilizada
 
 `pandas`
 `numpy`
@@ -47,7 +47,7 @@ Nuestro trabajo fue analizar, el comportamiento de los clientes y determinar qu�
 `matplotlib.pyplot`
 `scipy - stats` 
 
-##Resultados
+## Resultados
 La información anterior nos ayudo a ver que el plan que se debería darle mayor publiciad es el surf, ya que aunque es un paquete de costo pequeño (20 dólares), los usarios realmente terminan consumiendo más allá de su plan y de una manera desmedida, habiendo quién sobrepase hasta los 200 dólares, tal como lo pudimos observar en las boxplot del gasto por plan.
 
 
